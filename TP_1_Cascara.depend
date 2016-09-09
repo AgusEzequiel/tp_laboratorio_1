@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1472649333 source:c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1472649360 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472648993 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1472646364 c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473035511 source:c:\users\agus\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473035424 c:\users\agus\desktop\tp_1_cascara\funciones.h
+
+1473038300 source:c:\users\agus\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473035511 source:c:\users\agus\desktop\uni\workspace_uni\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473035424 c:\users\agus\desktop\uni\workspace_uni\tp_1_cascara\funciones.h
+
+1473361024 source:c:\program files (x86)\codeblocks\workspace_uni\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473035424 c:\program files (x86)\codeblocks\workspace_uni\tp_1_cascara\funciones.h
+
+1473038458 source:c:\program files (x86)\codeblocks\workspace_uni\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473456195 source:c:\users\papa\desktop\tp_1_cascara\funciones.c
+	"funciones.h"
+
+1473035424 c:\users\papa\desktop\tp_1_cascara\funciones.h
+
+1473038458 source:c:\users\papa\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473038458 source:c:\calc\calculadora tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473035424 c:\calc\calculadora tp1\funciones.h
+
